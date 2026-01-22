@@ -6,6 +6,12 @@ An innovative interactive digital postcard application that allows users to crea
 
 **[🚀 Live Demo](https://creativetravelist.github.io/immersive-journey-v1/)**
 
+
+
+https://github.com/user-attachments/assets/da1ce736-7fc1-47f5-9158-4760006ce048
+
+
+
 ## 🌟 Features
 
 - **Interactive Experience**: Provides an engaging user journey from postcard selection to creation completion
