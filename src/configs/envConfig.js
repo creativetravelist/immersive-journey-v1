@@ -7,7 +7,10 @@ const configs = {
 
   // basename: only at build time to set, and Don't add '/' at end off BASENAME for breadcrumbs, also Don't put only '/' use blank('') instead,
   // like '/berry-material-react/react/default'
+  BASE_NAME: "/immersive-journey-v1/",
+  DEFAULT_PATH: "home", //
   defaultPath: false,
+  BASE_ROUTE: window.BASE_ROUTE || process.env.REACT_APP_BASE_ROUTE || "",
   ADMIN_PATH: "",
 
   // LINE
