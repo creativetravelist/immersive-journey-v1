@@ -4,7 +4,7 @@ An innovative interactive digital postcard application that allows users to crea
 
 ## 🌐 Demo
 
-**[🚀 Live Demo](https://creativetravelist.github.io/interactive-card-menu-animations/)**
+**[🚀 Live Demo](https://creativetravelist.github.io/immersive-journey-v1/)**
 
 ## 🌟 Features
 
