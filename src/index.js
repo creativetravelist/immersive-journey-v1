@@ -2,7 +2,6 @@ import { createRoot } from "react-dom/client";
 
 // third party
 import { SnackbarProvider } from "notistack";
-import { BrowserRouter } from "react-router-dom";
 
 // project imports
 import App from "App";
@@ -23,9 +22,7 @@ const root = createRoot(container); // createRoot(container!) if you use TypeScr
 root.render(
   <SnackbarProvider maxSnack={3}>
     <MenuProvider>
-      <BrowserRouter basename={configs.BASE_NAME}>
-        <App />
-      </BrowserRouter>
+      <App />
     </MenuProvider>
   </SnackbarProvider>,
 );
