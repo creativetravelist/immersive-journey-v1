@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/immersive-journey-v1/static/css/main.aeeaa118.css",
-    "main.js": "/immersive-journey-v1/static/js/main.5d093c92.js",
+    "main.js": "/immersive-journey-v1/static/js/main.e1b35580.js",
     "static/js/260.dd29c5b4.chunk.js": "/immersive-journey-v1/static/js/260.dd29c5b4.chunk.js",
     "static/js/339.d7561b0d.chunk.js": "/immersive-journey-v1/static/js/339.d7561b0d.chunk.js",
     "static/js/434.cac93a64.chunk.js": "/immersive-journey-v1/static/js/434.cac93a64.chunk.js",
@@ -43,7 +43,7 @@
     "index.html": "/immersive-journey-v1/index.html",
     "static/media/back-arrow.svg": "/immersive-journey-v1/static/media/back-arrow.1b006141e62d44bc7ec823a56db2be24.svg",
     "main.aeeaa118.css.map": "/immersive-journey-v1/static/css/main.aeeaa118.css.map",
-    "main.5d093c92.js.map": "/immersive-journey-v1/static/js/main.5d093c92.js.map",
+    "main.e1b35580.js.map": "/immersive-journey-v1/static/js/main.e1b35580.js.map",
     "260.dd29c5b4.chunk.js.map": "/immersive-journey-v1/static/js/260.dd29c5b4.chunk.js.map",
     "339.d7561b0d.chunk.js.map": "/immersive-journey-v1/static/js/339.d7561b0d.chunk.js.map",
     "434.cac93a64.chunk.js.map": "/immersive-journey-v1/static/js/434.cac93a64.chunk.js.map",
@@ -73,6 +73,6 @@
   },
   "entrypoints": [
     "static/css/main.aeeaa118.css",
-    "static/js/main.5d093c92.js"
+    "static/js/main.e1b35580.js"
   ]
 }
