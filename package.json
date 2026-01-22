@@ -49,7 +49,9 @@
         "deploy:prod": "yarn build:prod:; firebase use default; firebase deploy --only hosting:prod",
         "analyze": "source-map-explorer 'build/static/js/*.js'",
         "zip": "zip -r latest.zip build",
-        "prepare": "husky install"
+        "prepare": "husky install",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
     },
     "eslintConfig": {
         "extends": [
