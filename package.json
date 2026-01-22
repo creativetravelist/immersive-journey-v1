@@ -2,7 +2,7 @@
     "name": "immersive-journey",
     "version": "0.1.0",
     "private": false,
-    "homepage": "https://creativetravelist.github.io/immersive-journey-v1",
+    "homepage": "https://creativetravelist.github.io/immersive-journey-v1/",
     "dependencies": {
         "@emotion/cache": "^11.9.3",
         "@emotion/react": "^11.9.3",
